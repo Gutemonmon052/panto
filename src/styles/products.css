@@ -206,6 +206,13 @@
   color: var(--primary);
 }
 
+@media screen and (max-width: 1560px) {
+  .product-items-actions {
+    width: 100%;
+  }
+}
+
+
 @media screen and (max-width: 1440px) {
   .product-items-actions {
     width: 93%;

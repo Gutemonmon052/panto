@@ -182,6 +182,12 @@
   box-shadow: none;
 }
 
+@media screen and (max-width: 1560px) {
+  .testimonials-items-actions {
+    width: 100%;
+  }
+}
+
 @media screen and (max-width: 1440px) {
   .testimonials-items-actions {
     width: 84.5%;
