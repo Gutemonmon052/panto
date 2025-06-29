@@ -29,7 +29,7 @@ export function Jumbotron() {
           </div>
           <div className="jumbotron-search">
             <input type="text" placeholder="Search furniture" />
-            <button>
+            <button disabled>
               <Image
                 src="/assets/icons/search.svg"
                 alt="search"
