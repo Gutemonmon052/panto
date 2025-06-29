@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Bang Upin",
+    "jobtitle": "Pedagang Asongan",
+    "description": "“Terimakasih banyak, kini ruanganku menjadi lebih mewah dan terlihat mahal“",
+    "image": "1",
+    "backgroundImg": "1",
+    "rating": 4
+  },
+  {
+    "id": 2,
+    "name": "Ibuk Sukijan",
+    "jobtitle": "Ibu Rumah Tangga",
+    "description": "“Makasih Panto, aku sekarang berasa tinggal di apartment karena barang-barang yang terlihat mewah“",
+    "image": "2",
+    "backgroundImg": "2",
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "name": "Mpok Ina",
+    "jobtitle": "Karyawan Swasta",
+    "description": "“Sangat terjangkau untuk kantong saya yang tidak terlalu banyak“",
+    "image": "3",
+    "backgroundImg": "3",
+    "rating": 4
+  }
+]
