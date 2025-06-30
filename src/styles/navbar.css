@@ -66,6 +66,14 @@
   font-size: 12px;
 }
 
+
+
+@media screen and (max-width: 1080px) {
+  .navbar-content {
+    padding: 10px 15px;
+  }
+}
+
 @media screen and (max-width: 758px) {
   .navbar-content {
     padding: 10px 15px;

@@ -119,6 +119,12 @@
   }
 }
 
+@media screen and (max-width: 1080px) {
+  .jumbotron-content {
+    height: 1080px;
+  }
+}
+
 @media screen and (max-width: 758px) {
   .jumbotron-content {
     height: 100vh;
