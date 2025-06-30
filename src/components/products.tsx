@@ -25,7 +25,7 @@ export function Products() {
     setSelectedProduct(0);
 
     const handleResize = () => {
-      setIsMobile(window.innerWidth < 758);
+      setIsMobile(window.innerWidth < 1280);
     };
 
     handleResize();

@@ -101,9 +101,19 @@
   padding: 11px;
 }
 
-.jumbotron-search button:disabled{
+.jumbotron-search button:disabled {
   cursor: not-allowed;
   opacity: 0.8;
+}
+
+@media screen and (max-width: 1440px) {
+  .jumbotron-content {
+    height: 100vh;
+  }
+
+  .jumbotron-image {
+    height: 100%;
+  }
 }
 
 @media screen and (max-width: 758px) {
@@ -114,8 +124,8 @@
     gap: 20px;
   }
 
-  .jumbotron-image{
-    height:100%;
+  .jumbotron-image {
+    height: 100%;
   }
 
   .jumbotron-text h1 {
