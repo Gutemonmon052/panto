@@ -106,9 +106,12 @@
   opacity: 0.8;
 }
 
-@media screen and (max-width: 1440px) {
+@media screen and (max-width: 1580px) {
   .jumbotron-content {
     height: 100vh;
+  }
+  .jumbotron-container {
+    gap: 20px;
   }
 
   .jumbotron-image {

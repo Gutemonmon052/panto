@@ -119,6 +119,12 @@
   color: #1e2833;
 }
 
+@media screen and (max-width: 1080px) {
+  .footer-content {
+    padding: 10px 15px;
+  }
+}
+
 @media screen and (max-width: 758px) {
   .footer-content {
     padding: 10px 15px;
